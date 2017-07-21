@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: CampTix Indian Payment Gateway
- * Plugin URI: https://www.sanyog.in/indian-payment-gateway
+ * Plugin URI: https://github.com/wpindiaorg/camptix-indian-payments/
  * Description: Simple and Flexible payment ticketing for Camptix using Indian Payment Gateway
- * Author: codexdemon
- * Author URI: http://www.sanyog.in/
+ * Author: WordPress India
+ * Author URI: https://github.com/wpindiaorg/camptix-indian-payments/
  * Version: 1.0
  * License: GPLv2 or later
  */
